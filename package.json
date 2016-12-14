@@ -1,0 +1,16 @@
+{
+  "name": "cloudflareipupdater",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Beicht",
+  "license": "ISC",
+  "dependencies": {
+    "async-polling": "^0.2.1",
+    "ip-address": "^5.8.2",
+    "sync-request": "^3.0.1"
+  }
+}
